@@ -509,12 +509,12 @@ Features-stack
   .features .ipad-wrap {
     width: 706px;
     height: 1002px;
-    background: url("../img/ipad-device.png") no-repeat center center;
+    background: url("../img/MES1/seguro.png") no-repeat left top;
     z-index: 1; }
   .features .iphone-wrap {
     width: 304px;
     height: 620px;
-    background: url("../img/iphone6.png") no-repeat center center;
+    background: url("../img/mujerlupa.png") no-repeat center center;
     position: absolute;
     left: 530px;
     bottom: 129px;
@@ -551,7 +551,7 @@ Features-stack
 .hero-strip
 ========================================================================== */
 .hero-strip {
-  margin-top: 120px;
+  margin-bottom: 120px;
   background: #333844 url("../img/polygonal-bg.jpg") no-repeat center center;
   padding-bottom: 190px;
   position: relative; }
