@@ -510,11 +510,12 @@ Features-stack
     width: 706px;
     height: 1002px;
     background: url("../img/MES1/seguro.png") no-repeat left top;
+    border-radius: 3%;
     z-index: 1; }
   .features .iphone-wrap {
     width: 304px;
     height: 620px;
-    background: url("../img/muje") no-repeat center center;
+    background: url("../img/lupa.jpg") no-repeat center center;
     position: absolute;
     left: 530px;
     bottom: 129px;
@@ -542,9 +543,10 @@ Features-stack
     position: absolute;
     width: 916px;
     height: 540px;
-    background: url("../img/macbook-pro.png") no-repeat center center;
+    background: url("../img/buscar-sismo.jpg") no-repeat center center;
     top: 114px;
     z-index: 4;
+    border-radius: 3%;
     left: 50%; }
 
 /* ==========================================================================
@@ -572,7 +574,7 @@ Features-stack
     margin-top: 10px; }
   .hero-strip .logo-placeholder {
     width: 230px;
-    height: 230px;
+    height: 250px;
     position: absolute;
     bottom: -285px;
     left: 50%;
@@ -653,7 +655,7 @@ Features-stack
 .testimonial-slider
 ========================================================================== */
 .testimonial-slider {
-  background: url("../img/testimonials-bg.jpg") no-repeat center center;
+  background: url("../img/inspeccion_de_vivienda_22.png") no-repeat center center;
   background-size: cover; }
   .testimonial-slider .avatar {
     width: 82px;
@@ -809,6 +811,17 @@ footer {
       color: #fff;
       text-transform: uppercase;
       padding-bottom: 10px; }
+    footer .social-share a.whatsapp-share {
+      height: 60px;
+      width: 60px;
+      background-color: #18c26d;
+      border-radius: 3px;
+      font-size: 22px;
+      display: inline-block;
+      text-align: center;
+      margin-right: 20px; }
+    footer .social-share a.whatsapp-share:hover, footer .social-share a.whatsapp-share:focus {
+      background-color: #0a693a; }  
     footer .social-share a.twitter-share {
       height: 60px;
       width: 60px;
@@ -826,6 +839,16 @@ footer {
       height: 60px;
       width: 60px;
       background-color: #3B5898;
+      border-radius: 3px;
+      font-size: 22px;
+      display: inline-block;
+      text-align: center; }
+    footer .social-share a.instagram-share:hover, footer .social-share a.instagram-share:focus {
+      background-color: #c41da8; }
+    footer .social-share a.instagram-share {
+      height: 60px;
+      width: 60px;
+      background-color: #a01c8a;
       border-radius: 3px;
       font-size: 22px;
       display: inline-block;
