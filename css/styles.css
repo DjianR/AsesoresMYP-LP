@@ -377,7 +377,7 @@ Hero
   z-index: 999; }
 
   .navigation img{
-    visibility: hidden;
+    visibility: visible; 
     padding-top: 1em;
   }
 
