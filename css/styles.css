@@ -865,6 +865,18 @@ footer {
   footer .footer-links {
     margin: 120px 0 120px 0; }
 
+#botonInstagram:hover{
+  background-color: #c41da8 ;
+  color: white !important;
+}
+#botonWhatsapp:hover{
+  background-color: #18c26d;
+  color: white !important;
+}
+#botonCorreo:hover{
+  color: white !important;
+  background-color: grey;
+}
 /* ==========================================================================
 Icon font (http://www.elegantthemes.com/blog/freebie-of-the-week/free-line-style-icons)
 ========================================================================== */
